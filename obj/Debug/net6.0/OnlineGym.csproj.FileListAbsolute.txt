@@ -105,3 +105,4 @@ D:\Track-Preperation\OnlineGym\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dl
 D:\Track-Preperation\OnlineGym\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
 D:\Track-Preperation\OnlineGym\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
 D:\Track-Preperation\OnlineGym\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Track-Preperation\OnlineGym\bin\Debug\net6.0\swagger.json
